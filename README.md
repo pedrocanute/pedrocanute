@@ -1,10 +1,10 @@
 ## Olá, me chamo Pedro👋
 
-Sou Bacharel em Direito pela USJT ⚖
+2° semestre de Ciência da Computação no SENAC Santo Amaro ⚛ 
+
+Bacharel em Direito pela USJT ⚖
 
 Técnico em Design de Interiores pelo SENAC RS 🛋
-
-Atualmente sou estudante do 1° semestre de Ciência da Computação no SENAC Santo Amaro ⚛ 
 
 Estou aprendendo sobre as maravilhas do mundo da Computação e redescobrindo meus caminhos e princípios.
 
